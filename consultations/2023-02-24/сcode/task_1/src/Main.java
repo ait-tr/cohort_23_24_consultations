@@ -4,9 +4,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        // Написать метод, который принимает список имен и их анаграмм и имя, по
-        // которому он выдает список всех анаграмм этого имени, включая само имя
-        // [vani,ivan,petr,terp,navi,maria],ivan->vani,ivan,navi
 
         //ДААНО слово, необходимо сформировать его анаграмму с помощью метода, который получает на вход слово,
         // возвращает анаграмму этого соова
