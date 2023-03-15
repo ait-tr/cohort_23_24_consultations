@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2023_03_14/src/Boy.java",
+    "code/consultation_2023_03_14/src/Girl.java",
+    "code/consultation_2023_03_14/src/Human.java",
+    "code/consultation_2023_03_14/src/Main.java",
+    "code/consultation_2023_03_14/src/PlusCalculator.java",
+    "code/consultation_2023_03_14/src/Programmer.java",
+    "code/consultation_2023_03_14/src/Pupil.java",
+    "code/consultation_2023_03_14/src/School.java",
+    "code/consultation_2023_03_14/src/Tester.java"
+  ],
+  "video": ""
+}
