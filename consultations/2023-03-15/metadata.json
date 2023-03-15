@@ -3,12 +3,9 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/animals_veterinar/src/Main.java",
-    "code/animals_veterinar/src/Animal.java",
-    "code/animals_veterinar/src/Bear.java",
-    "code/animals_veterinar/src/Cat.java",
-    "code/animals_veterinar/src/Dog.java",
-    "code/animals_veterinar/src/Vet.java"
+    "code/task-1/src/Main.java",
+    "code/task-2/src/Main.java",
+    "code/task-2/src/Person.java"
   ],
   "video": ""
 }
