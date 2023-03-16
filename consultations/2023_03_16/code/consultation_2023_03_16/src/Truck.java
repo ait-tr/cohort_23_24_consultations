@@ -30,17 +30,17 @@ public class Truck extends Car{
     }
 
     public void load(int weight){
-        if(weight > getRemainingCapacity()){
-            System.out.println("This is too heavy for me!");
-            printRemainingCapacity();
+    //    if(weight > getRemainingCapacity()){
+    //        System.out.println("This is too heavy for me!");
+    //        printRemainingCapacity();
             return;
         }
-        currentWeight += weight;
+    //    currentWeight += weight;
 
-        System.out.println("Loading "+weight+" tons...");
-        System.out.println("Loaded "+weight+" tons");
-        printRemainingCapacity();
-    }
+   //     System.out.println("Loading "+weight+" tons...");
+   //     System.out.println("Loaded "+weight+" tons");
+   //     printRemainingCapacity();
+  //  }
 
     public void unload(int unloadingWeight){
         if(unloadingWeight>currentWeight){
@@ -59,5 +59,15 @@ public class Truck extends Car{
     }
     private void printRemainingCargo(){
         System.out.println("Remaining cargo weight is "+currentWeight+" tons");
+    }
+
+    @Override
+    public void drive() {
+
+    }
+
+    @Override
+    public void stop() {
+
     }
 }
