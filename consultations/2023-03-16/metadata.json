@@ -1,0 +1,15 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2023_03_16/src/Car.java",
+    "code/consultation_2023_03_16/src/Demo.java",
+    "code/consultation_2023_03_16/src/Main.java",
+    "code/consultation_2023_03_16/src/PassengerCar.java",
+    "code/consultation_2023_03_16/src/Truck.java",
+    "code/consultation_2023_03_16/src/Week.java"
+
+  ],
+  "video": ""
+}
