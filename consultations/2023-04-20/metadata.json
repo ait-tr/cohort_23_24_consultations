@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/consultation_2023_04_20/src/BankAccount.java",
+    "code/consultation_2023_04_20/src/CountInt.java",
+    "code/consultation_2023_04_20/src/CountInt2.java",
+    "code/consultation_2023_04_20/src/Main.java",
+    "code/consultation_2023_04_20/src/Person.java",
+    "code/consultation_2023_04_20/src/Runner.java",
+    "code/consultation_2023_04_20/src/RunnerRunnable.java"
+
+
+  ],
+  "video": ""
+}
